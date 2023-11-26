@@ -10,7 +10,7 @@ This project has sql queries of adventure works dataset.The queries are as follo
 4.Daily Sales Trend
 
 5. Profit by Products
-6. 
+ 
 6.Profit by Product Sub-Categories
 
 7.Total Customers 
